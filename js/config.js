@@ -6,8 +6,8 @@
    ⚠️ لا تضع هنا أبداً المفتاح السري Secret key (sb_secret_...) ولا مفتاح service_role.
    إذا تركتهما فارغين يعمل الموقع كما كان: الحفظ على هذا الجهاز فقط. */
 window.APP_CONFIG = {
-  SUPABASE_URL: "https://wsnldtqglqreghpfejmo.supabase.co",
-  SUPABASE_ANON_KEY: "sb_publishable_IqpA7L58XD9k-jJ6Lw6XRw_t8z0NAQm",
+  SUPABASE_URL: "https://uzvjzkgrfjeelvvfjqny.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_rnFP9CR455XqEqF61hVcCQ_boaNFtP2",
   // اختياري: حد حجم المرفق بالميغابايت (يجب ألا يتجاوز حد الحاوية في Supabase)
   MAX_FILE_MB: 10
 };
